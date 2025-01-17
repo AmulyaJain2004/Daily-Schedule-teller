@@ -17,18 +17,19 @@ function displayTimetable(timeTable) {
 
     for (const day in timeTable) {
         const dayDiv = document.createElement('div');
+        dayDiv.classList.add("table") 
         dayDiv.innerHTML = `
-        <div style="margin: 5vh 50vh; border: 1px dotted black;">
-        <h2>${day}</h2>
-        </div>
+        <h2><u>${day}</u></h2>
         `;
 
         timeTable[day].forEach(classInfo => {
             const classDiv = document.createElement('div');
+            classDiv.classList.add("table-row")
             classDiv.innerHTML = `
-            <p>Class: ${classInfo.class}</p>
-            <p>Time: ${classInfo.time}</p>
-            <p>Room: ${classInfo.location}</p>
+            <div class="row"><b>Class:</b> ${classInfo.class}</div>
+            <div class="row"><b>Time:</b> ${classInfo.time}</div>
+            <div class="row"><b>Room:</b> ${classInfo.location}</div>
+            <span> </span>
       `;
             dayDiv.appendChild(classDiv);
         });
