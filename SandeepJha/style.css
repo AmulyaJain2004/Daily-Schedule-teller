@@ -1,0 +1,91 @@
+header{
+    border: 2px solid black;
+    border-radius: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #BCCCDC;
+    font-family: cursive;
+}
+
+body{
+    background-color: #D9EAFD;
+    font-family: papyrus
+    /* margin: 50px; */
+}
+
+span{
+    border:1px dotted black;
+    margin: 15px;
+}
+
+
+#timetable{
+    font-family: 'Courier New', Courier, monospace;
+    /* border: 1px solid black;
+    border-radius: 100px;
+    margin-right: 100px;
+    margin-left: 100px; */
+    background-color: #BCCCDC;
+    display: flex;
+    overflow: hidden;
+}
+
+.schedule{
+    display: flex;
+    justify-content: center;
+}
+
+#SapId{
+    background-color: #BCCCDC;
+    border-radius: 50px;
+    border: 3px dotted #9AA6B2;
+    font-size: 20px;
+    padding: 7px;
+    padding-left: 15px;
+    margin: 5px;
+}
+
+#getSchedule{
+    background-color: #9AA6B2;
+    border-radius: 50px;
+    border: 2px dashed #BCCCDC;
+    font-size: 20px;
+    padding: 8px;
+    margin: 5px;
+}
+
+#getSchedule:hover {
+    background-color: #BCCCDC;
+    border-color: #9AA6B2;
+  }
+
+.table{
+    padding: 5px;
+    margin: 5px;
+    border: 5px dashed #9AA6B2;
+}
+
+.table-row{
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    text-align: left;
+}
+
+@media screen and (max-width: 1024px){
+    #timetable{
+        flex-direction: column;
+    }
+    .schedule{
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+        justify-content: space-between;
+    }
+    
+}
