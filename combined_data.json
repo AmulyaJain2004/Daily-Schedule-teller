@@ -1,0 +1,1397 @@
+{
+  "500119060": {
+    "name": "Tejasvi Hazarika",
+    "sapID": 500119060,
+    "course": "B.Tech CSE",
+    "year": 2,
+    "enrollmentNumber": "R2142230618",
+    "collegeEmail": "Tejasvi.119060@stu.upes.ac.in",
+    "timeTable": {
+      "Monday": [
+        {
+          "class": "OOP",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "4001"
+        },
+        {
+          "class": "Software Engineering",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "4001"
+        },
+        {
+          "class": "Data Communication and Networks",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "11015"
+        },
+        {
+          "class": "Fundamentals of Data Science",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "4001"
+        }
+      ],
+      "Tuesday": [
+        {
+          "class": "Data Communication and Networks",
+          "time": "10:00 AM - 12:00 PM",
+          "location": "11015"
+        },
+        {
+          "class": "Linear Algebra",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "4001"
+        }
+      ],
+      "Wednesday": [
+        {
+          "class": "Fundamentals of Data Science Lab",
+          "time": "10:00 AM - 12:00 PM",
+          "location": "4001"
+        },
+        {
+          "class": "Linear Algebra",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "4001"
+        },
+        {
+          "class": "Fundamentals of Data Science",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "4001"
+        }
+      ],
+      "Thursday": [
+        {
+          "class": "OOPS",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "4001"
+        },
+        {
+          "class": "Fundamentals of Data Science",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "4001"
+        },
+        {
+          "class": "Linear Algebra",
+          "time": "12:00 PM - 1:00 PM",
+          "location": "4001"
+        },
+        {
+          "class": "Software Engineering",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "4001"
+        },
+        {
+          "class": "Data Communication and Networks",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "11015"
+        },
+        {
+          "class": "EDGE",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "11015"
+        }
+      ],
+      "Friday": [
+        {
+          "class": "OOPS",
+          "time": "10:00 AM - 12:00 PM",
+          "location": "10001"
+        },
+        {
+          "class": "Data Communication and Networks",
+          "time": "12:00 PM - 1:00 PM",
+          "location": "11015"
+        },
+        {
+          "class": "Fundamentals of Data Science",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "4001"
+        },
+        {
+          "class": "Software Engineering",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "4001"
+        },
+        {
+          "class": "OOP",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "4001"
+        }
+      ]
+    }
+  },
+  "500119375": {
+    "name": "Keshav Chopra",
+    "sapID": 500119375,
+    "course": "B.Tech CSE",
+    "year": 2,
+    "enrollmentNumber": "R2142230294",
+    "collegeEmail": "Keshav.119375@stu.upes.ac.in",
+    "timeTable": {
+      "Monday": [
+        {
+          "class": "Linear Algebra",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "4002"
+        },
+        {
+          "class": "Fundamentals of Data Science",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "4001"
+        },
+        {
+          "class": "Data Communication And Network",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "4001"
+        }
+      ],
+      "Tuesday": [
+        {
+          "class": "OOP",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "4002"
+        },
+        {
+          "class": "Fundamentals of Data Science",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "4001"
+        },
+        {
+          "class": "Software Engineering",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "OOPS LAB",
+          "time": "4:00 PM - 6:00 PM",
+          "location": "10008"
+        }
+      ],
+      "Wednesday": [
+        {
+          "class": "Linear Algebra",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "4002"
+        },
+        {
+          "class": "Fundamentals of Data Science",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "4001"
+        },
+        {
+          "class": "Data Communication and Networks",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "4002"
+        }
+      ],
+      "Thursday": [
+        {
+          "class": "EDGE",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "4002"
+        },
+        {
+          "class": "Software Engineering",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Fundamentals of Data Science",
+          "time": "1:00 PM - 2:00 PM",
+          "location": "4001"
+        },
+        {
+          "class": "Data Communication and Networks LAB",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "OOPS",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Fundamentals of Data Science LAB",
+          "time": "4:00 PM - 6:00 PM",
+          "location": "10004"
+        }
+      ],
+      "Friday": [
+        {
+          "class": "OOP",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Software Engineering",
+          "time": "1:00 PM - 2:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Linear Algebra",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Data Communication and Networks LAB",
+          "time": "4:00 PM - 6:00 PM",
+          "location": "10004"
+        }
+      ]
+    }
+  },
+  "590019085": {
+    "name": "Pragya Arora",
+    "sapID": 590019085,
+    "course": "B. Tech CSE",
+    "year": 1,
+    "enrollmentNumber": "R24010114815",
+    "collegeEmail": "Pragya.19085@stu.upes.ac.in",
+    "timeTable": {
+      "Monday": [
+        {
+          "class": "Python Programming LAB",
+          "time": "8:00 AM - 10:00 AM",
+          "location": "10004"
+        },
+        {
+          "class": "Physics Lab",
+          "time": "10:00 AM - 12:00 PM",
+          "location": "Physics Lab III"
+        },
+        {
+          "class": "Data Structures and Algorithm",
+          "time": "1:00 PM - 2:00 PM",
+          "location": "3002"
+        },
+        {
+          "class": "Python Programming",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "3002"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "3002"
+        }
+      ],
+      "Tuesday": [
+        {
+          "class": "DSA",
+          "time": "10:00 AM - 11:00 PM",
+          "location": "3002"
+        },
+        {
+          "class": "AEM II",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "3002"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "1:00 PM - 2:00 PM",
+          "location": "3002"
+        },
+        {
+          "class": "Physics",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "3002"
+        },
+        {
+          "class": "Environment Sustainability & Climate Change",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "3002"
+        }
+      ],
+      "Wednesday": [
+        {
+          "class": "Data Structures & Algorithms",
+          "time": "8:00 AM - 10:00 AM",
+          "location": "AB-11 L-011"
+        },
+        {
+          "class": "Physics",
+          "time": "10:00 AM - 11:00 PM",
+          "location": "3002"
+        },
+        {
+          "class": "Python Programming",
+          "time": "1:00 PM - 2:00 PM",
+          "location": "3002"
+        },
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "5203"
+        },
+        {
+          "class": "Computer Organization & Architecture",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "3003"
+        }
+      ],
+      "Thursday": [
+        {
+          "class": "Python Programming LAB",
+          "time": "8:00 AM - 10:00 AM",
+          "location": "11105"
+        },
+        {
+          "class": "Physics",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "3002"
+        },
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "3002"
+        },
+        {
+          "class": "Data Structures & Algorithms",
+          "time": "1:00 PM - 2:00 PM",
+          "location": "3002"
+        },
+        {
+          "class": "Computer Organization & Architecture",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "3003"
+        }
+      ],
+      "Friday": [
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "3002"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "3002"
+        },
+        {
+          "class": "Physics",
+          "time": "1:00 PM - 2:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Data Structures & Algorithms",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "3002"
+        },
+        {
+          "class": "Computer Organization & Architecture",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "3003"
+        }
+      ]
+    }
+  },
+  "590012237": {
+    "name": "Ridhima Rajput",
+    "sapID": 590012237,
+    "course": "B.Tech CSE",
+    "year": 1,
+    "enrollmentNumber": "R24010112933",
+    "collegeEmail": "Ridhima.12237@stu.upes.ac.in",
+    "timeTable": {
+      "Monday": [
+        {
+          "class": "Physics for Computer Science",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "1003"
+        },
+        {
+          "class": "Data Structures and Algorithms",
+          "time": "12:00 PM - 1:00 PM",
+          "location": "1203"
+        },
+        {
+          "class": "Data Structures and Algorithms Lab",
+          "time": "2:00 PM - 4:00 PM",
+          "location": "AB-11 L-006"
+        },
+        {
+          "class": "Environmental Studies",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "1204"
+        }
+      ],
+      "Tuesday": [
+        {
+          "class": "Data Structures and Algorithms",
+          "time": "1:00 PM - 2:00 PM",
+          "location": "1204"
+        },
+        {
+          "class": "Python Programming Lab",
+          "time": "2:00 PM - 4:00 PM",
+          "location": "11105"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "5:00 PM - 6:00 PM",
+          "location": "1204"
+        }
+      ],
+      "Wednesday": [
+        {
+          "class": "Physics for Computer Science",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "1204"
+        },
+        {
+          "class": "Advanced Engineering Mathematics",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "1201"
+        },
+        {
+          "class": "Data Structures and Algorithms",
+          "time": "1:00 PM - 2:00 PM",
+          "location": "1204"
+        },
+        {
+          "class": "Physics for Computer Science Lab",
+          "time": "2:00 PM - 4:00 PM",
+          "location": "Physics lab-II"
+        },
+        {
+          "class": "Computer Organization and Architecture",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "1204"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "5:00 PM - 6:00 PM",
+          "location": "1204"
+        }
+      ],
+      "Thursday": [
+        {
+          "class": "Physics for Computer Science",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "1003"
+        },
+        {
+          "class": "Python Programming",
+          "time": "12:00 PM - 1:00 PM",
+          "location": "1203"
+        },
+        {
+          "class": "Python Programming Lab",
+          "time": "2:00 PM - 4:00 PM",
+          "location": "B9-CCC-01 (LAB)"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "1204"
+        },
+        {
+          "class": "Computer Organization and Architecture",
+          "time": "5:00 PM - 6:00 PM",
+          "location": "1204"
+        }
+      ],
+      "Friday": [
+        {
+          "class": "Physics for Computer Science",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "1003"
+        },
+        {
+          "class": "Data Structures and Algorithms",
+          "time": "12:00 PM - 1:00 PM",
+          "location": "1204"
+        },
+        {
+          "class": "Advanced Engineering Mathematics",
+          "time": "1:00 PM - 2:00 PM",
+          "location": "5204"
+        },
+        {
+          "class": "Python Programming",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "1204"
+        },
+        {
+          "class": "Advanced Engineering Mathematics",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "1204"
+        },
+        {
+          "class": "Computer Organization and Architecture",
+          "time": "5:00 PM - 6:00 PM",
+          "location": "1204"
+        }
+      ]
+    }
+  },
+  "590018707": {
+    "name": "Suyash",
+    "sapID": 590018707,
+    "course": "B.Tech CSE",
+    "year": 1,
+    "enrollmentNumber": "R24010114514",
+    "collegeEmail": "SUYASH.18707@stu.upes.ac.in",
+    "timeTable": {
+      "Monday": [
+        {
+          "class": "Digital Electronics",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "3003"
+        },
+        {
+          "class": "Advanced Engineering mathematics",
+          "time": "12:00 PM - 1:00 PM",
+          "location": "6103"
+        },
+        {
+          "class": "Python Programming",
+          "time": "2:00 PM - 4:00 PM",
+          "location": "4104"
+        },
+        {
+          "class": "Data structures and Algorithms",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "6103"
+        },
+        {
+          "class": "Physics for Computer Science",
+          "time": "5:00 PM - 6:00 PM",
+          "location": "6103"
+        }
+      ],
+      "Tuesday": [
+        {
+          "class": "Digital Electronics",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "3003"
+        },
+        {
+          "class": "Advanced Engineering Mathematics",
+          "time": "12:00 PM - 1:00 PM",
+          "location": "6103"
+        },
+        {
+          "class": "Data structures and Algorithms",
+          "time": "2:00 PM - 4:00 PM",
+          "location": "4104"
+          },
+        {
+          "class": "Physics for Computer Science",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "6103"
+        },
+         {
+          "class": "Data structures and Algorithms",
+          "time": "5:00 PM - 6:00 PM",
+          "location": "6103"
+          }
+      ],
+      "Wednesday": [
+        {
+          "class": "Computer organization and Architechture",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "10206"
+        },
+        {      
+          "class": "Advanced Engineering Mathematics",
+          "time": "12:00 PM - 1:00 PM",
+          "location": "3003"
+        },
+        {
+          "class": "Physics for Computer Science",
+          "time": "2:00 PM - 4:00 PM",
+          "location": "Physics Lab IV"
+        },
+        {
+          "class": "Data structures and Algorithms",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "6103"
+        },
+        {
+          "class": "Python Programming",
+          "time": "5:00 PM - 6:00 PM",
+          "location": "6103"
+        }
+      ],
+      "Thursday": [
+        {
+          "class": "Computer organization and Architechture",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "10206"
+        },
+        {      
+          "class": "Advanced Engineering Mathematics",
+          "time": "12:00 PM - 1:00 PM",
+          "location": "3003"
+        },
+        {
+          "class": "Python Programming",
+          "time": "2:00 PM - 4:00 PM",
+          "location": "3105"
+        },
+        {
+          "class": "Physics for Computer Science",
+          "time": "2:00 PM - 4:00 PM",
+          "location": "6103"
+        },
+        {
+          "class": "Data structures and Algorithm",
+          "time": "5:00 PM - 6:00 PM",
+          "location": "6103"
+        }
+      ],
+      "Friday": [
+        {
+          "class": "Computer Organization and Architechture",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "3003"
+        },
+        {
+          "class": "Environmental Sustainability",
+          "time": "12:00 PM - 1:00 PM",
+          "location": "6103"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "6103"
+        },
+        {
+          "class": "Physics for Computer Science",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "6103"
+        },
+        {
+          "class": "Python Programming",
+          "time": "5:00 PM - 6:00 PM",
+          "location": "6103"
+        }
+      ]
+    }
+  },
+  "500122439": {
+    "name": "Amulya Jain",
+    "sapID": 500122439,
+    "course": "B.Tech CSE",
+    "year": 2,
+    "enrollmentNumber": "R2142231008",
+    "collegeEmail": "Amulya.122439@stu.upes.ac.in",
+    "timeTable": {
+      "Monday": [
+        {
+          "class": "OOP",
+          "time": "8:00 AM - 9:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "Linear Algebra",
+          "time": "9:00 AM - 10:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "Applied ML",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "10202"
+        },
+        {
+          "class": "Data Communication and Networks",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "10101"
+        },
+        {
+          "class": "Software Engineering",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "10102"
+        }
+      ],
+      "Tuesday": [
+        {
+          "class": "Applied ML",
+          "time": "8:00 AM - 9:00 AM",
+          "location": "AB-11 L-006"
+        },
+        {
+          "class": "Linear Algebra",
+          "time": "9:00 AM - 10:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "OOP",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "10101"
+        }
+      ],
+      "Wednesday": [
+        {
+          "class": "Linear Algebra",
+          "time": "8:00 AM - 9:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "Applied ML",
+          "time": "9:00 AM - 10:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "Data Communication and Networks",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "10101"
+        },
+        {
+          "class": "Software Engineering",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "10205"
+        }
+      ],
+      "Thursday": [
+        {
+          "class": "Applied ML LAB",
+          "time": "8:00 AM - 10:00 AM",
+          "location": "AB-11 L-011"
+        },
+        {
+          "class": "EDGE",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "Data Communication and Networks",
+          "time": "12:00 PM - 1:00 PM",
+          "location": "10102"
+        },
+        {
+          "class": "Data Communication and Networks LAB",
+          "time": "1:00 PM - 3:00 PM",
+          "location": "AB-11 L-006"
+        }
+      ],
+      "Friday": [
+        {
+          "class": "Applied ML",
+          "time": "8:00 AM - 9:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "OOP",
+          "time": "9:00 AM - 10:00 AM",
+          "location": "AB-11 L-007"
+        },
+        {
+          "class": "Software Engineering",
+          "time": "10:00 AM - 11:00 PM",
+          "location": "10102"
+        },
+        {
+          "class": "OOP LAB",
+          "time": "2:00 PM - 4:00 PM",
+          "location": "AB-11 L-006"
+        }
+      ]
+    }
+  },
+  "500121198": {
+    "name": "Saksham Bhardwaj",
+    "sapID": 500121198,
+    "course": "B.Tech CSE",
+    "year": 2,
+    "enrollmentNumber": "R214223",
+    "collegeEmail": "saksham.121198@stu.upes.ac.in",
+    "timeTable": {
+      "Monday": [
+        {
+          "class": "OOP",
+          "time": "8:00 AM - 9:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "Linear Algebra",
+          "time": "9:00 AM - 10:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "Applied ML",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "10202"
+        },
+        {
+          "class": "Data Communication and Networks",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "10101"
+        },
+        {
+          "class": "Software Engineering",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "10102"
+        }
+      ],
+      "Tuesday": [
+        {
+          "class": "Applied ML",
+          "time": "8:00 AM - 9:00 AM",
+          "location": "AB-11 L-006"
+        },
+        {
+          "class": "Linear Algebra",
+          "time": "9:00 AM - 10:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "OOP",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "10101"
+        }
+      ],
+      "Wednesday": [
+        {
+          "class": "Linear Algebra",
+          "time": "8:00 AM - 9:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "Applied ML",
+          "time": "9:00 AM - 10:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "Data Communication and Networks",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "10101"
+        },
+        {
+          "class": "Software Engineering",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "10205"
+        }
+      ],
+      "Thursday": [
+        {
+          "class": "Applied ML LAB",
+          "time": "8:00 AM - 10:00 AM",
+          "location": "AB-11 L-011"
+        },
+        {
+          "class": "EDGE",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "Data Communication and Networks",
+          "time": "12:00 PM - 1:00 PM",
+          "location": "10102"
+        },
+        {
+          "class": "Data Communication and Networks LAB",
+          "time": "1:00 PM - 3:00 PM",
+          "location": "AB-11 L-006"
+        }
+      ],
+      "Friday": [
+        {
+          "class": "Applied ML",
+          "time": "8:00 AM - 9:00 AM",
+          "location": "10101"
+        },
+        {
+          "class": "OOP",
+          "time": "9:00 AM - 10:00 AM",
+          "location": "AB-11 L-007"
+        },
+        {
+          "class": "Software Engineering",
+          "time": "10:00 AM - 11:00 PM",
+          "location": "10102"
+        },
+        {
+          "class": "OOP LAB",
+          "time": "2:00 PM - 4:00 PM",
+          "location": "AB-11 L-006"
+        }
+      ]
+    }
+  },
+  "500120437": {
+    "name": "Ayush Fartyal",
+    "sapID": 500121835,
+    "course": "B. Tech CSE",
+    "year": 2,
+    "enrollmentNumber": "R2142230379",
+    "collegeEmail": "Ayush.121835@stu.upes.ac.in",
+    "timeTable": {
+      "Monday": [
+        {
+          "class": "Fundamentals of Data Science",
+          "time": "10:00 AM - 12:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Object Oriented Programming",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Fundamentals of Data Science Lab",
+          "time": "4:00 PM - 6:00 PM",
+          "location": "10008"
+        }
+      ],
+      "Tuesday": [
+        {
+          "class": "OOP's",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Data Communication and Networks",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Linear Algebra",
+          "time": "5:00 PM - 6:00 PM",
+          "location": "4002"
+        }
+      ],
+      "Wednesday": [
+        {
+          "class": "Software Engineering",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "4004"
+        },
+        {
+          "class": "Data Communication and Networks",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Fundamentals of Data Science",
+          "time": "5:00 PM - 6:00 PM",
+          "location": "4002"
+        }
+      ],
+      "Thursday": [
+        {
+          "class": "Software Engineering",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "4003"
+        },
+        {
+          "class": "Data Communication and Networks LAB",
+          "time": "12:00 PM - 2:00 PM",
+          "location": "3105"
+        },
+        {
+          "class": "Linear Algebra",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "4003"
+        },
+        {
+          "class": "Edge- Soft Skills",
+          "time": "4:00 PM - 5:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Fundamentals of Data Science",
+          "time": "5:00 PM - 6:00 PM",
+          "location": "4002"
+        }
+      ],
+      "Friday": [
+        {
+          "class": "Linear Algebra",
+          "time": "10:00 AM - 11:00 AM",
+          "location": "4002"
+        },
+        {
+          "class": "Object Oriented Programming",
+          "time": "11:00 AM - 12:00 PM",
+          "location": "4003"
+        },
+        {
+          "class": "Fundamentals of Data Science",
+          "time": "12:00 PM - 1:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Data Communication and Networks",
+          "time": "2:00 PM - 3:00 PM",
+          "location": "4004"
+        },
+        {
+          "class": "Software Engineering",
+          "time": "3:00 PM - 4:00 PM",
+          "location": "4002"
+        },
+        {
+          "class": "Object Oriented Programming Lab",
+          "time": "4:00 PM - 6:00 PM",
+          "location": "3105"
+        }
+      ]
+    }
+  },
+  "590012874": {
+    "name": "Deepak Soni",
+    "sapID": 590012874,
+    "course": "B.Tech CSE",
+    "year": 1,
+    "enrollmentNumber": "24010110266",
+    "collegeEmail": "deepak.12874@stu.upes.ac.in",
+    "timeTable": {
+      "Monday": [
+        {
+          "class": "Python Programming",
+          "time": "12:00 PM - 12:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "15:00 PM - 15:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Data Structures & Algorithms",
+          "time": "16:00 PM - 16:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "17:00 PM - 17:55 PM",
+          "location": "9202"
+        }
+      ],
+      "Tuesday": [
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "12:00 PM - 12:55 PM",
+          "location": "5205"
+        },
+        {
+          "class": "Computer Organization & Architecture",
+          "time": "15:00 PM - 15:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Data Structures & Algorithms",
+          "time": "16:00 PM - 16:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "17:00 PM - 17:55 PM",
+          "location": "9202"
+        }
+      ],
+      "Wednesday": [
+        {
+          "class": "Python Programming",
+          "time": "12:00 PM - 13:55 PM",
+          "location": "6203"
+        },
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "15:00 PM - 15:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Data Structures & Algorithms",
+          "time": "16:00 PM - 16:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Environment Sustainability",
+          "time": "17:00 PM - 17:55 PM",
+          "location": "9202"
+        }
+      ],
+      "Thursday": [
+        {
+          "class": "Data Structures & Algorithms",
+          "time": "12:00 PM - 13:55 PM",
+          "location": "6201"
+        },
+        {
+          "class": "Computer Organization & Architecture",
+          "time": "15:00 PM - 15:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "16:00 PM - 16:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Python Programming",
+          "time": "17:00 PM - 17:55 PM",
+          "location": "9202"
+        }
+      ],
+      "Friday": [
+        {
+          "class": "Python Programming",
+          "time": "12:00 PM - 13:55 PM",
+          "location": "6203"
+        },
+        {
+          "class": "Computer Organization & Architecture",
+          "time": "15:00 PM - 15:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "16:00 PM - 16:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Data Structures & Algorithms",
+          "time": "17:00 PM - 17:55 PM",
+          "location": "9202"
+        }
+      ]
+    }
+  },
+  "590014310": {
+    "name": "Sandeep Jha",
+    "sapID": 590014310,
+    "course": "B. Tech CSE",
+    "year": 1,
+    "enrollmentNumber": "24010110115",
+    "collegeEmail": "sandeep.14310@stu.upes.ac.in",
+    "timeTable": {
+      "Monday": [
+        {
+          "class": "Environment Sustainability & Climate Change",
+          "time": "08:00 AM - 08:55 AM",
+          "location": "9202"
+        },
+        {
+          "class": "Computer Organization and Architecture",
+          "time": "09:00 AM - 09:55 AM",
+          "location": "9202"
+        },
+        {
+          "class": "Data Structures and Algorithms",
+          "time": "10:00 AM - 11:55 AM",
+          "location": "6202"
+        },
+        {
+          "class": "Computer Organization and Architecture",
+          "time": "01:00 PM - 01:55 PM",
+          "location": "9108"
+        },
+        {
+          "class": "Python Programming",
+          "time": "02:00 PM - 02:55 PM",
+          "location": "9202"
+        }
+      ],
+      "Tuesday": [
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "08:00 AM - 08:55 AM",
+          "location": "9202"
+        },
+        {
+          "class": "Data Structures and Algorithms",
+          "time": "09:00 AM - 09:55 AM",
+          "location": "9202"
+        },
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "11:00 AM - 11:55 AM",
+          "location": "5205"
+        },
+        {
+          "class": "Python Programming",
+          "time": "01:00 PM - 01:55 PM",
+          "location": "9202"
+        }
+      ],
+      "Wednesday": [
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "08:00 AM - 08:55 AM",
+          "location": "9202"
+        },
+        {
+          "class": "Data Structures and Algorithms",
+          "time": "09:00 AM - 09:55 AM",
+          "location": "9202"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "11:00 AM - 11:55 AM",
+          "location": "9202"
+        },
+        {
+          "class": "Python Programming",
+          "time": "02:00 PM - 03:55 PM",
+          "location": "6203"
+        }
+      ],
+      "Thursday": [
+        {
+          "class": "Computer Organization and Architecture",
+          "time": "08:00 AM - 08:55 AM",
+          "location": "9202"
+        },
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "09:00 AM - 09:55 AM",
+          "location": "9202"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "10:00 AM - 10:55 AM",
+          "location": "9202"
+        },
+        {
+          "class": "Data Structures and Algorithms",
+          "time": "01:00 PM - 01:55 PM",
+          "location": "9202"
+        }
+      ],
+      "Friday": [
+        {
+          "class": "Python Programming",
+          "time": "08:00 AM - 09:55 AM",
+          "location": "6201"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "10:00 AM - 10:55 AM",
+          "location": "9202"
+        },
+        {
+          "class": "Computer Organization and Architecture",
+          "time": "01:00 PM - 01:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Data Structures and Algorithms",
+          "time": "02:00 PM - 02:55 PM",
+          "location": "9202"
+        }
+      ]
+    }
+  },
+  "590012418": {
+    "name": "Akshara Mishra",
+    "sapID": 590012418,
+    "course": "B. Tech CSE",
+    "year": 1,
+    "enrollmentNumber": "R24010110328",
+    "collegeEmail": "akshara.12418@stu.upes.ac.in",
+    "timeTable": {
+      "Monday": [
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "10:00 AM - 10:55 AM",
+          "location": "5205"
+        },
+        {
+          "class": "Data Structures and algorithms",
+          "time": "11:00 AM - 11:55 AM",
+          "location": "9203"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "12:00 PM - 12:55 PM",
+          "location": "9203"
+        },
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "02:00 PM - 02:55 PM",
+          "location": "9203"
+        }
+      ],
+      "Tuesday": [
+        {
+          "class": "Data Structures and algorithms",
+          "time": "08:00 AM - 09:55 AM",
+          "location": "6201"
+        },
+        {
+          "class": "Computer organization and Architecture",
+          "time": "10:00 AM - 10:55 AM",
+          "location": "9203"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "12:00 PM - 12:55 PM",
+          "location": "9203"
+        },
+        {
+          "class": "Data Structures and algorithms",
+          "time": "02:00 PM - 02:55 PM",
+          "location": "9203"
+        }
+      ],
+      "Wednesday": [
+        {
+          "class": "Python programming",
+          "time": "08:00 AM - 09:55 AM",
+          "location": "6203"
+        },
+        {
+          "class": "Computer organization and Architecture",
+          "time": "10:00 AM - 10:55 AM",
+          "location": "9203"
+        },
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "12:00 PM - 12:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Python programming",
+          "time": "02:00 PM - 02:55 PM",
+          "location": "9203"
+        }
+      ],
+      "Thursday": [
+        {
+          "class": "Environment Sustainibility & Climate Change (Living Lab)",
+          "time": "10:00 AM - 10:55 AM",
+          "location": "9203"
+        },
+        {
+          "class": "Data Structures and algorithms",
+          "time": "11:00 AM - 11:55 AM",
+          "location": "9203"
+        },
+        {
+          "class": "Python programming",
+          "time": "01:00 PM - 01:55 PM",
+          "location": "9203"
+        }
+      ],
+      "Friday": [
+        {
+          "class": "Computer organization and Architecture",
+          "time": "08:00 AM - 08:55 AM",
+          "location": "9202"
+        },
+        {
+          "class": "Advanced Engineering Mathematics - 2",
+          "time": "09:00 AM - 09:55 AM",
+          "location": "9202"
+        },
+        {
+          "class": "Data Structures and algorithms",
+          "time": "10:00 AM - 10:55 AM",
+          "location": "9203"
+        },
+        {
+          "class": "Digital Electronics",
+          "time": "12:00 PM - 12:55 PM",
+          "location": "9202"
+        },
+        {
+          "class": "Python programming",
+          "time": "02:00 PM - 03:55 PM",
+          "location": "2104"
+        }
+      ]
+    }
+  }
+}
