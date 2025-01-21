@@ -18,6 +18,7 @@ span{
     margin: 15px;
 }
 
+
 #timetable{
     font-family: 'Courier New', Courier, monospace;
     /* border: 1px solid black;
@@ -52,6 +53,11 @@ span{
     padding: 8px;
     margin: 5px;
 }
+
+#getSchedule:hover {
+    background-color: #BCCCDC;
+    border-color: #9AA6B2;
+  }
 
 .table{
     padding: 5px;
