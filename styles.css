@@ -17,6 +17,15 @@ header {
   background-color: #004080;
   padding: 20px;
   text-align: center;
+  position: relative;
+}
+
+header .logo {
+  width: 100px;
+  height: auto;
+  position: absolute;
+  top: 10px;
+  left: 20px;
 }
 
 header h1 {
