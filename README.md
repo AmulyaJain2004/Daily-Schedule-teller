@@ -2,13 +2,13 @@
 
 ---
 
-Project Description
+## Project Description
 
 A web application which allows team members to get the timetable schedule of the other members in team as well as theirs.
 
 ---
 
-Technologies used
+## Technologies used
 
 1. HTML
 2. CSS
@@ -17,7 +17,7 @@ Technologies used
 
 ---
 
-Website Developed by **UPES CSA Technical Team** : -
+## Website Developed by **UPES CSA Technical Team** : -
 
 1. Deepak Soni
 2. Sandeep Jha
@@ -28,6 +28,8 @@ Website Developed by **UPES CSA Technical Team** : -
 
 ---
 
-Future Projections: More features will be added.
+## Future Projection: More features will be added
+
+Add issues and collaboration.
 
 ---
